@@ -1,0 +1,13 @@
+{
+  "name": "purrnet-signaling",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.17.0",
+    "express": "^4.18.2"
+  }
+}
